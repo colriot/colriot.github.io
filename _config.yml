@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://colriot.github.io
+title: Sergey Ryabov's blog
+email: colriot@gmail.com
+author: Sergey Ryabov
+description: May the Code be with you
+paginate: 10
+google_analytics: UA-65545201-1
